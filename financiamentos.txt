@@ -1,0 +1,24 @@
+Valor do Imóvel: 120000.0
+Prazo de Financiamento (meses): 24
+Taxa de Juros Anual (%): 1.0
+
+Valor do Imóvel: 200000.0
+Prazo de Financiamento (meses): 12
+Taxa de Juros Anual (%): 1.0
+
+Valor do Imóvel: 230000.0
+Prazo de Financiamento (meses): 24
+Taxa de Juros Anual (%): 1.4
+
+Valor do Imóvel: 120000.0
+Prazo de Financiamento (meses): 14
+Taxa de Juros Anual (%): 1.0
+
+Valor do Imóvel: 100000.0
+Prazo de Financiamento (meses): 20
+Taxa de Juros Anual (%): 1.0
+
+Valor do Imóvel: 150000.0
+Prazo de Financiamento (meses): 48
+Taxa de Juros Anual (%): 1.3
+
